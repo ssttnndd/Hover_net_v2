@@ -11,7 +11,7 @@ Features
 ⚡ Fast inference with configurable batch size and parallel processing
 🎨 Automatic result visualization (input vs. segmentation overlay)
 🧩 Support for multiple model checkpoints (original/fast mode, with/without type prediction)
-📁 QuPath-compatible output (for downstream 病理分析)
+📁 QuPath-compatible output (for downstream )
 🖥️ GPU acceleration (configurable for multi-GPU setups)
 Installation
 Prerequisites
@@ -100,7 +100,7 @@ Check outputs in the specified directory
 Run Tile Mode (for small images)
 Process standard-sized images (e.g., 256×256px):
 python
-运行
+
 # Run the main script
 python infer.py
 When prompted, input:
